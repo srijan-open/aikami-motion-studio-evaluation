@@ -1,0 +1,97 @@
+Here’s your Free Guide......                                                      AiKAMI
+This is DAY 9 of the AI Creator Series
+
+
+
+
+        Code-Drawn Animation — Every Frame Drawn By Claude
+
+                 ★ NOTE - These Guides are manually hand-typed sauce and Not AI
+                                     written robotic fluff :)
+
+
+
+
+        But how does Claude make these animated videos?
+
+
+           1. No AI video tool is involved: Claude writes code that draws
+
+             every frame.
+
+           2. It studies your references and copies the style, not the subject.
+
+           3. It plans a mini-film: a hook, a build-up, a payoff.
+
+           4. Chrome, already on your computer, turns the code into
+
+             frames.
+
+           5. Claude checks sample frames and fixes what looks off.
+
+           6. It composes the soundtrack in code, synced to the picture.
+
+           7. A free tool (ffmpeg) joins it all into a ready-to-post MP4.
+                                                                                  AiKAMI
+    1 Find A Style You Love
+                               STYLES THAT TRANSLATE BEST TO CODE:
+
+  Code draws shapes, lines, gradients and textures brilliantly. Pick styles built
+  from those, and the results look hand-crafted:
+
+
+
+
+    Flat vector illustration     Minimal line art     Paper-cut / layered     Grainy risograph
+
+   Skip photorealism for this workflow — that's a job for video models. Code wins on graphic,
+                                   illustrated, designed looks.
+
+
+   2 Load The Skill + Give Your Brief
+         A rough idea is enough. The skill does the directing.
+
+
+                               ★ THE AIKAMI ANIMATION SKILL :
+        https://drive.google.com/drive/folders/13r4IY7X13Wj4cpd3-U8pmvUv4ttg6IT0?usp=sharing
+
+
+1. Click and download the skill above       👆.
+2. Install Claude Code app on your desktop (dont use on web)
+3. Then drag and drop the skill.md file in Claude code and say “Install this as a personal skill”
+4. Then open a new chat (cz the same chat might wont detect that claude skill u just installed)
+5. Then type /motion-studi... (ull already see the skill and select it)
+6. Then upload your references (imgs or videos) {They act as style reference but can add further
+  instructions if want the subject or something specific from it}
+7. Along with a rough idea of the topic, you want animation video on.
+8. Mention the Duration and Ratio and let it cook!
+                                                                            AiKAMI
+3 My honest insights on this method:
+
+           1. Claude code at least takes 25-30 minutes for one 15 second
+            animation to build completely, could be even more than that
+            depending on your input.
+
+
+          2.You will hit your claude daily usage limit sooner than expected,
+            claude code uses a bit of GPU to render the animations so keep
+            checks in between.
+
+
+          3. For best results and usage balance use Opus 5.5 on high and
+            15 sec duration
+
+
+
+
+                                               I just need 5 more minutes
+
+
+
+
+                  ★ Feel free to DM me if you have any questions ★
+★   I'll keep dropping valuable guides like this for free. But if you ever want the
+    full in-depth system behind work like this, that's what AIKAMI's Vault is for.
+                                                                                      ★
+                              CHECK WHAT’S INSIDE
+
